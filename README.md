@@ -9,11 +9,11 @@ This tool is to have the following functionality.
    * [ ] Ensure that the times don't stop when minimised (maybe minimise to try)
    * [ ] Have a keyboard shortcut to open / hide the UI
 
-[] Clipboard Manager
--- [] Store clipboard history
--- [] have option for length of storage (time or items)
--- [] store in local db
+2. [ ] Clipboard Manager
+   * [ ] Store clipboard history
+   * [ ] have option for length of storage (time or items)
+   * [ ] store in local db
 
-[] NAV / BC 
--- [] Versions (Downloads)
+3. [ ] NAV / BC 
+   * [ ] Versions (Downloads)
 
