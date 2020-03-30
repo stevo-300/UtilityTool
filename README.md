@@ -13,7 +13,20 @@ This tool is to have the following functionality.
    * [ ] Store clipboard history
    * [ ] have option for length of storage (time or items)
    * [ ] store in local db
+   
+3. [ ] Asana Intergration
+   * [ ] See 'My Tasks'
+   * [ ] Quick link multiple tasks with owner
+   * [ ] Create New Task
+   * [ ] Delete Task
+   * [ ] Mark as complete
+   * [ ] Change Queue
+   * [ ] Add Subtask
+   * [ ] Delete Subtask
+   * [ ] Add/Delete Subtask levels
+   * [ ] Make subtask a full task and remove from parent
+    * [ ] Add comment to parent when this was removed
 
-3. [ ] NAV / BC 
-   * [ ] Versions (Downloads)
+4. [ ] NAV / BC 
+   * [ ] Versions (Downloads)?
 
